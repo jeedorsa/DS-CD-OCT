@@ -1,5 +1,5 @@
 # DS-CD-OCT
-Repository for bootcamp of Coding Dojo Data Science Cohort June
+Repository for bootcamp of Coding Dojo Data Science Cohort October
 
 ## Link de las clases grabadas
 [https://drive.google.com/drive/folders/1fSAqlQHJJoOiN6TxpzKU1yqWZ4Yxnb32?usp=drive_link ](https://drive.google.com/drive/u/0/folders/1cHK51wRbtVKfsN02fKmEMUck1Zn0jcyq)
