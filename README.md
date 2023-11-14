@@ -20,7 +20,7 @@ Repository for bootcamp of Coding Dojo Data Science Cohort October
 
 -https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/
 
-##Cheat Sheets XD
+## Cheat Sheets XD
 
 -https://matplotlib.org/cheatsheets/cheatsheets.pdf
 
